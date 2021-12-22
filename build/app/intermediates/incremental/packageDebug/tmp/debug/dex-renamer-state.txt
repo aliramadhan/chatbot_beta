@@ -1,0 +1,4 @@
+#Wed Dec 22 15:07:25 ICT 2021
+base.0=C\:\\Users\\User\\Videos\\chatbot_beta\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
